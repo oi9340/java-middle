@@ -1,7 +1,7 @@
 package enumeration.ref3;
 
 public enum Grade {
-    BASIC(10), GOLD(20), DIAMOND(30);
+    BASIC(10), GOLD(20), DIAMOND(30), VIP(40);
 
     private final int discountPercent;
 
